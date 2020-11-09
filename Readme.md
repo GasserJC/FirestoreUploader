@@ -1,14 +1,14 @@
 # Instructions:
 
-on your local machine create a folder/directory and cd into it and open a terminal.
-` git clone https://github.com/GasserJC/FirestoreUploader.git`
-` cd FirestoreUploader `
-` npm install `
-
+on your local machine create a folder/directory and cd into it and open a terminal.<br/>
+` git clone https://github.com/GasserJC/FirestoreUploader.git`<br/>
+` cd FirestoreUploader `<br/>
+` npm install `<br/>
+<br/>
 Now you will need to move two JSON files into this directory. One will be your IAM GCP credentials, and the other will be the JSON file you need to upload into your GCP firestore collection. 
 Learn how to get your GCP credentials here: https://cloud.google.com/docs/authentication/getting-started
-
-` npm start `
+<br/>
+` npm start `<br/>
 
 Now all you need to do is wait for the console to state, 'Finished Upload!!!' 
 
