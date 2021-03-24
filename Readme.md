@@ -12,4 +12,4 @@ Learn how to get your GCP credentials here: https://cloud.google.com/docs/authen
 
 Now all you need to do is wait for the console to state, 'Finished Upload!!!' 
 
-Barring connection, this will achieve approximately 2500 writes per minute. Further versions will attempt to decrease memory consumption (ie: spacial complexity.) Which will allow for faster upload times.
+Barring connection, this will achieve approximately 2500 writes per minute.
